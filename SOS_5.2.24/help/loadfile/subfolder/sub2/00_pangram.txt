@@ -1,0 +1,1 @@
+A pangram is a sentence that includes every single letter of the alphabet
